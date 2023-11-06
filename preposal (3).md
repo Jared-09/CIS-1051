@@ -11,9 +11,9 @@ Recipe Generator
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Michael Pham, Smarika
+Michael Pham, Smarika Jayadev
 
 
 ## Do you have any questions of your own?
 
-TODO
+N/A
