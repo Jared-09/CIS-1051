@@ -21,7 +21,7 @@ TODO, if applicable
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
 Michael Pham
-- michael.pham@temple.edu
+- michael.pham0006@temple.edu
 - Yang Zhao
 
 Smarika Jayadev
@@ -33,15 +33,21 @@ Smarika Jayadev
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+- Gain experience with programming real applications in different languages
+- Feature it on resume
+- Talk about in interview
+
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+- Succesfully create an interactive, recipe generator website that runs properly and smoothly
+
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+As beginner programmer in CIS 1051, we only know python as of right now. However, we plan to research and learn HTML and CSS as well to 
+fully craete our website. We will be using HTML to create the content of the page like headings, and CSS to design the colors, fonts, etc. Along with this, we will have to install and understand the Flask framework and set up a virutal environment to connect our Python backend to our frontend with HTML and CSS. We will learn to use PythonAnywhere to host our flask application. We will research using platforms like Stack Overflow, GitHub, Reddit, and Youtube. 
+
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
