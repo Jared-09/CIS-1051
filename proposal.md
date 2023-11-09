@@ -21,6 +21,8 @@ TODO, if applicable
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
 Michael Pham
+- michael.pham@temple.edu
+- Yang Zhao
 
 Smarika Jayadev
 - smarika.jayadev@temple.edu
