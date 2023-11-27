@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Jared Segal
 
 #### Your section leader's name
 
-TODO
+Amirhossein Baghghadam
 
 #### Project title
 
-TODO
+RecipeWiz
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Majority basics, the html that I know and tha majority of the python backend.
 
 #### What have you not done for your project yet?
 
-TODO
+The python backend has wokr but for the final result we plan to continue adding whatever else we can that will potentially exempt us form the final.
 
 #### What problems, if any, have you encountered?
 
-TODO
+No problems too difficult, if my code just breaks the site, I just look it up until something works.
